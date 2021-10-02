@@ -1,0 +1,40 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://github.com/JimTang1/cse341-projects/tree/master/prove03
+
+3. Briefly list and describe the elements of the application that are functioning. 
+Controllers:
+ admin
+ error
+ shop
+
+routes:
+ admin
+ shop
+
+data
+ cart
+ products
+
+views
+
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+Everything is working.
+This week just has a lot of information need to understand. I like it but spend much longer time than I thought. It is hard is because I don't really know how callback functions work. I think if we do have some call-back function exercise before this project. many things will be reasonable and easiler.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+How MVC work and how it becomes much more organized and professional. For some reason, I feel node.js is a full-stack developer language instead of a backend language.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+No. this week, I spend a lot of time studying how MVC work. I like it a lot even I spend a lot of time lol.
+
+7. Please select the category you feel best describes your assignment:
+   5 - Shows creativity and excels above and beyond requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+I use the MVC model to create this page. I also change many CSS things that provide a better user experience. Everything is working correctly. 
