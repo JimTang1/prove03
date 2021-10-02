@@ -4,7 +4,7 @@ Please answer the questions in this text file and submit it to I-Learn.
 1. Copy and paste the URL for your web application (e.g., Heroku):
 
 2. Copy and paste the URL for your source code repository (e.g., GitHub):
-https://github.com/JimTang1/cse341-projects/tree/master/prove03
+https://github.com/JimTang1/prove03
 
 3. Briefly list and describe the elements of the application that are functioning. 
 Controllers:
