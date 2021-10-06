@@ -2,6 +2,10 @@ After completing the assignment, be sure to push to Github and Heroku.
 Please answer the questions in this text file and submit it to I-Learn.
 
 1. Copy and paste the URL for your web application (e.g., Heroku):
+website
+https://cse341prove3.herokuapp.com/
+repo:
+https://dashboard.heroku.com/apps/cse341prove3
 
 2. Copy and paste the URL for your source code repository (e.g., GitHub):
 https://github.com/JimTang1/prove03
@@ -21,7 +25,6 @@ data
  products
 
 views
-
 
 4. Briefly describe any pieces of the assignment that are not yet working correctly.
 Everything is working.
